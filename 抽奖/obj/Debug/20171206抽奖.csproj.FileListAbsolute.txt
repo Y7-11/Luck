@@ -1,0 +1,10 @@
+H:\学习\20171206抽奖\20171206抽奖\bin\Debug\20171206抽奖.exe.config
+H:\学习\20171206抽奖\20171206抽奖\bin\Debug\20171206抽奖.exe
+H:\学习\20171206抽奖\20171206抽奖\bin\Debug\20171206抽奖.pdb
+H:\学习\20171206抽奖\20171206抽奖\obj\Debug\_20171206抽奖.Form1.resources
+H:\学习\20171206抽奖\20171206抽奖\obj\Debug\_20171206抽奖.Properties.Resources.resources
+H:\学习\20171206抽奖\20171206抽奖\obj\Debug\20171206抽奖.csproj.GenerateResource.Cache
+H:\学习\20171206抽奖\20171206抽奖\obj\Debug\20171206抽奖.exe
+H:\学习\20171206抽奖\20171206抽奖\obj\Debug\20171206抽奖.pdb
+H:\学习\20171206抽奖\20171206抽奖\obj\Debug\20171206抽奖.csprojAssemblyReference.cache
+H:\学习\20171206抽奖\20171206抽奖\obj\Debug\20171206抽奖.csproj.CoreCompileInputs.cache
